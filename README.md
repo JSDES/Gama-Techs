@@ -32,3 +32,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# Contributers :trophy::trophy::trophy:
+
+User Name | Contribution
+--------- | -------------
+:tada: UmarGit | Founder
+
+
